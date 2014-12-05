@@ -3602,7 +3602,18 @@
         "local weather",
         "local weather forecast"
       ]
-    }
+    },
+    {
+      "name": "Moby Digg", 
+      "thumb": "mobydigg/thumb.png", 
+      "desc": "Moby Digg is a Munich based design bureau working in the fields of curation, culture and commerce.", 
+      "url": "http://mobydigg.de",
+      "submitter": "MHeitsch",
+      "submissionDate": "2014-12-05",
+      "tags": [
+      "Portfolio", "Design", "jQuery"
+    ]
+}
 
   ]
 }
